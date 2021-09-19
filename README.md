@@ -1,6 +1,6 @@
 Homework 1
 
-Team members:
-Marko Muro
-Aleksandra Doroshenko
-Uku Zingel
+Team members:<br />
+Marko Muro<br />
+Aleksandra Doroshenko<br />
+Uku Zingel<br />
