@@ -1,0 +1,38 @@
+* {
+    font-family: 'Roboto Slab', serif;
+    }
+body{
+    background-color: royalblue;    
+}
+.center {
+    margin-top: 12%;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    display: flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: white;
+}
+.center div > a{
+    font-size: small;
+}
+.center div > p ~ p{
+    text-align: center;
+}
+.link{
+    font-size: small;
+}
+.big{
+    font-weight: bold;
+    text-align: center;
+}
+.center div > form input[type=submit]{
+    background-color: blue;
+    color: white;
+    margin-left: 35%;
+}
+.center div > img{
+    height: 50px;
+}
