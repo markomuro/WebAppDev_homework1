@@ -1,0 +1,82 @@
+[
+  {
+    "author": "John F. Kennedy",
+    "id": 1,
+    "create_time": "Sep 19, 2021 13:56",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "If we cannot end now our differences, at least we can help make the world safe for diversity."
+  },
+  {
+    "author": "Antoine de Saint-Exupery",
+    "id": 2,
+    "create_time": "Sep 20, 2021 13:01",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away."
+  },
+  {
+    "author": "Albert Einstein",
+    "id": 3,
+    "create_time": "Aug 20, 2021 15:01",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "Common sense is the collection of prejudices acquired by age eighteen."
+  },
+  {
+    "author": "Mark Twain",
+    "id": 4,
+    "create_time": "Aug 12, 2021 11:23",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "Water, taken in moderation, cannot hurt anybody."
+  },
+  {
+    "author": "Robert Half",
+    "id": 5,
+    "create_time": "May 04, 2021 19:23",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "What happens when the future has come and gone?"
+  },
+  {
+    "author": "Babe Ruth",
+    "id": 6,
+    "create_time": "May 23, 2021 07:23",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "I have only one superstition. I touch all the bases when I hit a home run."
+  },
+  {
+    "author": "Jarvis Klem",
+    "id": 7,
+    "create_time": "Oct 12, 2021 04:21",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "Make a decision, even if it's wrong."
+  },
+  {
+    "author": "Virginia Woolf",
+    "id": 8,
+    "create_time": "Oct 01, 2021 02:21",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "If you do not tell the truth about yourself you cannot tell it about other people."
+  },
+  {
+    "author": "Virgil",
+    "id": 9,
+    "create_time": "Oct 29, 2021 11:17",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "They can conquer who believe they can."
+  },
+  {
+    "author": "Sir Henry Taylor",
+    "id": 10,
+    "create_time": "Jul 05, 2021 23:44",
+    "image1": "https://picsum.photos/1024/768",
+    "image2": "https://image.similarpng.com/very-thumbnail/2020/06/Like-button-blue-facebook-transparent-PNG.png",
+    "body": "The art of living easily as to money is to pitch your scale of living one degree below your means."
+  }
+]
