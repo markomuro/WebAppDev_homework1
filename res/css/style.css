@@ -66,6 +66,37 @@ nav div.search-container > input:hover {
     
 }
 
+.dropbtn {
+    cursor: pointer;
+    border: none;
+}
+
+.dropdown {
+    position: relative; 
+  } 
+
+.dropdown-content {
+    display: none;
+    position: absolute; 
+    right:0px;
+    padding: 5px; 
+    background-color: white; 
+    min-width: 160px;
+    z-index: 1; 
+    font-size: 12px;;
+  }
+
+  .dropdown-content p {
+    color: black;
+    text-decoration: none; 
+    display: block; 
+  }
+
+  /* Show the dropdown menu 
+  (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {
+    display:block;}
+
 .general {
     display: flex; 
 }

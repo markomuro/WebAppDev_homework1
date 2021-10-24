@@ -1,35 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Homework 1</title>
+    <title>Homework 2</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="res/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type="text/javascript" src="res/js/script.js"></script>
 </head>
+
 <body>
-<header id="navigation">
-    <nav>
-        <div>
-            <img src="res/images/picture1.jpg" alt="some logo">
-        </div>
-        <div class="search-container">
-            <input type="text"><button>Search</button>
-        </div>
-        <div>
-            <img src="res/images/picture2.png" alt="some logo">
-        </div>
-    </nav>
-</header>
+    <header id="navigation">
+        <nav>
+            <div class="post-it">
+                <img src="res/images/picture1.jpg" alt="some logo">
+            </div>
+            <div class="search-container">
+                <input type="text"><button>Search</button>
+            </div>
+            <div class="dropdown">
+                <img class="dropbtn" onclick="myFunction('myDropdown')" src="res/images/picture2.png" alt="some logo"
+                    style="width:50px;height:50px;">
 
-<section class="general">
-    <div class="leftside">
-    </div>
-    <div class="center">
+                <div id="myDropdown" class="dropdown-content">
+                    <p>John Doe<br>john.doe@gmail.com</br></p>
+                </div>
+            </div>
+        </nav>
+    </header>
 
-        <!-- <section class="post">
+    <section class="general">
+        <div class="leftside">
+        </div>
+        <div class="center">
+
+            <!-- <section class="post">
             <div class="facelogo">
                 <img src="res/images/picture2.png" alt="some logo">
                 <p>Sep 19, 2021 14:56</p>
@@ -44,10 +51,10 @@
                 <img src="res/images/likebutton.jpg" alt="i like it">
             </div>
         </section> -->
-    </div>
-    <div class="rightside">
-    </div>
-</section>
+        </div>
+        <div class="rightside">
+        </div>
+    </section>
 
 </body>
 
